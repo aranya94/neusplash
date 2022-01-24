@@ -1,1 +1,1 @@
-# tdlinux-plasma-splash
+# tdlinux-custom-splash

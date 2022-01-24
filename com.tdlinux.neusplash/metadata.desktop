@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=TDLinux KDE Splash Screen Neu Logo
+Name=NeuSplash
+X-KDE-PluginInfo-Author=Aranya
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=iamaranya@hotmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3.0
+X-KDE-PluginInfo-Name=com.tdlinux.neusplash
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/aranya94
+X-KDE-ServiceTypes=Plasma/LookAndFeel
